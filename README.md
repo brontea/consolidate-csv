@@ -1,2 +1,2 @@
 # consolidate-csv
-Consolidate data from many csv files under one with the same header.
+If there are csv files with the same header, consolidate their data under one file with this header.
